@@ -35,7 +35,7 @@ printf("%d is the smallest number.",c);
 ```
 
 ## Output:
-10 25 5
+10 25 5\
 The smallest number is: 5
 
 ## Result:
